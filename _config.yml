@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            alliannas
+tagline:          'Blog on everything software'
+description:      'Here I will blog about suff.'
+url:              http://alliannas.is
+baseurl:          /
+
+author:
+  name:           'Alexander Annas Helgason'
+  url:            https://twitter.com/alliannas
+
+paginate:         5
+
+
+
+# Custom vars
+
+github:
+  repo:           https://github.com/poole/hyde

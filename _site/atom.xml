@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>alliannas</title>
+ <link href="http://alliannas.is/atom.xml" rel="self"/>
+ <link href="http://alliannas.is/"/>
+ <updated>2016-03-20T23:45:29+00:00</updated>
+ <id>http://alliannas.is</id>
+ <author>
+   <name>Alexander Annas Helgason</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Introducing This Blog</title>
+   <link href="http://alliannas.is/2016/03/20/first-blog-post/"/>
+   <updated>2016-03-20T00:00:00+00:00</updated>
+   <id>http://alliannas.is/2016/03/20/first-blog-post</id>
+   <content type="html">&lt;p&gt;Hey all. This is my first attempt at blogging.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
